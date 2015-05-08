@@ -1,3 +1,5 @@
 # bam files
 *.bam
 
+DukeUWExon/GeneBASE_DukeUWExon_qn.csv
+txtMat/dnase_test.txt
